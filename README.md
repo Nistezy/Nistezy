@@ -44,6 +44,22 @@
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cisco&logoColor=White)
 ![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=for-the-badge&logo=vmware&logoColor=orange)
+![IPv4](https://img.shields.io/badge/IPv4-0052CC?style=for-the-badge)
+![IPv6](https://img.shields.io/badge/IPv6-8B0000?style=for-the-badge)
+![Radvd](https://img.shields.io/badge/Radvd-000000?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-0078D6?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-F38020?style=for-the-badge)
+
+---
+## 🛡️ Network & Security Technologies
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-FF4500?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-000000?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-8B0000?style=for-the-badge)
+![Chrony](https://img.shields.io/badge/Chrony-000000?style=for-the-badge)
 
 ---
 ## 🚀 Featured Projects
