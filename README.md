@@ -75,3 +75,5 @@ Infrastructure project focused on Debian server deployment, administration and s
 ### 🏴 CTF Writeups
 Collection of writeups documenting methodologies, tools and lessons learned from CTF challenges.
 🔗 https://github.com/Nistezy/CTF-Writeups
+
+![Snake Animation](https://github.com/Nistezy)
