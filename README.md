@@ -1,5 +1,5 @@
 # Mauricio Robert 
-### 👾 Cybersecurity Student | CTF Player | Linux & Windows Infrastructure | Security Research & Development 💻
+### 👾 Cybersecurity Student | CTF Player | DFIR Player | Linux & Windows Infrastructure | Security Research & Development 💻
 
 ---
 ## 📊 GitHub Statistics
