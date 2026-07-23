@@ -16,7 +16,7 @@
 ---
 ## 🛡️ Cybersecurity Platforms
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Nistezy160-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Nistezy404-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-DFIR%20Player-101820?style=for-the-badge)](https://cyberdefenders.org/p/Nistezy/)
 
 ---
