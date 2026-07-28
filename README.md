@@ -3,7 +3,9 @@
 
 ---
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=Nistezy&theme=black-ice&ring=8B0000&fire=ff0000&currStreakLabel=8B0000"/>
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Nistezy&theme=black-ice&ring=8B0000&fire=ff0000&currStreakLabel=8B0000"/>
+</div>
 
 ---
 ## 🌐 Social Media
