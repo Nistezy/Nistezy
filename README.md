@@ -2,10 +2,8 @@
 ### 👾 Cybersecurity Student | CTF Player | DFIR Player | Linux & Windows Infrastructure | Security Research & Development 💻
 
 ---
-## 📊 GitHub Statistics
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nistezy&theme=black-ice&ring=8B0000&fire=ff0000&currStreakLabel=8B0000" alt="Nistezy Streak Stats"/>
-</p>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=Nistezy&theme=black-ice&ring=8B0000&fire=ff0000&currStreakLabel=8B0000"/>
 
 ---
 ## 🌐 Social Media
