@@ -64,10 +64,6 @@
 ---
 ## 🚀 Featured Projects
 
-### 🔍 ScanSQLi
-Automated SQL Injection detection tool focused on reconnaissance and vulnerability assessment.
-🔗 https://github.com/Nistezy/ScanSQLi
-
 ### 🐧 ServerDebian
 Infrastructure project focused on Debian server deployment, administration and service configuration.
 🔗 https://github.com/Nistezy/ServerDebian
